@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_Session-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65AAAFF7-FAF4-491D-8F9C-E11D7700BC58}|OOP-Assignment_02\\OOP-Assignment_02.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session-2\\oop-assignment_02\\hiredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AAAFF7-FAF4-491D-8F9C-E11D7700BC58}|OOP-Assignment_02\\OOP-Assignment_02.csproj|solutionrelative:oop-assignment_02\\hiredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AAAFF7-FAF4-491D-8F9C-E11D7700BC58}|OOP-Assignment_02\\OOP-Assignment_02.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session-2\\oop-assignment_02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AAAFF7-FAF4-491D-8F9C-E11D7700BC58}|OOP-Assignment_02\\OOP-Assignment_02.csproj|solutionrelative:oop-assignment_02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AAAFF7-FAF4-491D-8F9C-E11D7700BC58}|OOP-Assignment_02\\OOP-Assignment_02.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session-2\\oop-assignment_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AAAFF7-FAF4-491D-8F9C-E11D7700BC58}|OOP-Assignment_02\\OOP-Assignment_02.csproj|solutionrelative:oop-assignment_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AAAFF7-FAF4-491D-8F9C-E11D7700BC58}|OOP-Assignment_02\\OOP-Assignment_02.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session-2\\oop-assignment_02\\securitylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AAAFF7-FAF4-491D-8F9C-E11D7700BC58}|OOP-Assignment_02\\OOP-Assignment_02.csproj|solutionrelative:oop-assignment_02\\securitylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityLevel.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_Session-2\\OOP-Assignment_02\\SecurityLevel.cs",
+              "RelativeDocumentMoniker": "OOP-Assignment_02\\SecurityLevel.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_Session-2\\OOP-Assignment_02\\SecurityLevel.cs",
+              "RelativeToolTip": "OOP-Assignment_02\\SecurityLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:17:52.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HireDate.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_Session-2\\OOP-Assignment_02\\HireDate.cs",
+              "RelativeDocumentMoniker": "OOP-Assignment_02\\HireDate.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_Session-2\\OOP-Assignment_02\\HireDate.cs",
+              "RelativeToolTip": "OOP-Assignment_02\\HireDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:16:29.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_Session-2\\OOP-Assignment_02\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP-Assignment_02\\Employee.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_Session-2\\OOP-Assignment_02\\Employee.cs",
+              "RelativeToolTip": "OOP-Assignment_02\\Employee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:15:18.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_Session-2\\OOP-Assignment_02\\Program.cs",
+              "RelativeDocumentMoniker": "OOP-Assignment_02\\Program.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_Session-2\\OOP-Assignment_02\\Program.cs",
+              "RelativeToolTip": "OOP-Assignment_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:16:45.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
